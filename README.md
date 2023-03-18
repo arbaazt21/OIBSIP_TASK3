@@ -1,2 +1,2 @@
-# oibsip_task3
+# OIBSIP_TASK3
 Temperature Converter Website
